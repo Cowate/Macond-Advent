@@ -1,0 +1,8 @@
+name: MacondoAdvent
+version: '${version}'
+main: com.cowate.solitudeback.MacondoAdvent
+api-version: '1.20'
+commands:
+  macd:
+    description: clear all cd in ma
+    usage: /<command> <player> [clear]
