@@ -25,4 +25,4 @@ Return to spawn point if it has not sleep on bed while dying, cooldown in 15 min
 Pulling spear for long time, cause 20 true damage to player. If the player was not dead, it would recover all the health in several second and get damage resistance, cooldown in 15 minutes. Disable shooting.
 
 ## Note
-This method is unstable and unsafe. Please use other methods like smp2tool.
+This method is unstable and unsafe. Recommend using other methods like smp2tool.
